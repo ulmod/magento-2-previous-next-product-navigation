@@ -1,8 +1,8 @@
 # Magento 2 Previous Next Product Navigation Extension
 
-[Magento 2 Previous Next Product Navigation](https://www.ulmod.com/magento-2-previous-next-product-navigation.html)  is a Magento 2 extension that allows your shoppers to seamlessly navigate between product pages and back to the category page with a single click.
+[Magento 2 Previous Next Product Navigation](https://www.ulmod.com/magento-2-previous-next-product-navigation.html)  is a Magento 2 extension that allows your shoppers to seamlessly navigate between product pages and back to the category of the product with a single click.
 
-With Magento 2 Previous Next Product Navigation, you can display previous/next buttons on the various positions on the product page and enhances your store's usability.
+With Magento 2 Previous Next Product Navigation, you can display previous/next buttons in various positions on the product page and enhances your store's usability.
 
 <a href="https://www.ulmod.com/magento-2-previous-next-product-navigation.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
