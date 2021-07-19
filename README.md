@@ -1,0 +1,1 @@
+# magento-2-previous-next-product-navigation
